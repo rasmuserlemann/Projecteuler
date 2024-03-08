@@ -3,6 +3,7 @@ import numpy
 from operator import mul
 from functools import reduce
 
+
 def primes(n):
     res = set()
     # iterate over all even numbers first.
